@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import "./assets/globalStyle.css";
-import App from "./App";
+import "./assets/style.css";
+import App from "./AppTestVisu.js";
 import reportWebVitals from "./reportWebVitals";
 
 /**

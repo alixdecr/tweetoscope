@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'VT323', monospace;
+}
+
+body {
+  background-color: #242c38;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 40px;
+  color: white;
+}
+
+.tweet-tree {
+
+}
+
+.tweet {
+  max-width: 80%;
+  position: absolute;
+  padding: 10px;
+}
